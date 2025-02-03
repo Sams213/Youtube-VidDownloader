@@ -1,6 +1,10 @@
-# Youtube Video Downloader
+# Youtube Video Downloader (Deprecated)
 
 Cette application Python permet de télécharger des vidéos YouTube avec une interface graphique intuitive utilisant `customtkinter`.
+
+Ce projet ne marche plus, changement de l'api de Youtube ?
+
+![](Images/HomePageScreenShot.png)
 
 ## 📌 Fonctionnalités
 
