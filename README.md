@@ -2,7 +2,7 @@
 
 Cette application Python permet de télécharger des vidéos YouTube avec une interface graphique intuitive utilisant `customtkinter`.
 
-Ce projet ne marche plus, changement de l'api de Youtube ?
+Ce projet ne marche plus, surement dû à des modifications dans l'api de Youtube.
 
 ![](Images/HomePageScreenShot.png)
 
